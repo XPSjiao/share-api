@@ -20,7 +20,7 @@ import javax.annotation.Resource;
  **/
 
 @RestController
-@RequestMapping(value = "/notices")
+@RequestMapping(value = "/notice")
 @RefreshScope
 @Slf4j
 public class NoticeController {
