@@ -4,7 +4,7 @@ import com.ej.noticeservice.entity.Notice;
 
 /**
  * @description:
- * @author: syhan
+ * @author: ej
  * @create: 2022-09-25
  **/
 

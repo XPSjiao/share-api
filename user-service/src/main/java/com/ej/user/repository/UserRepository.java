@@ -1,11 +1,11 @@
 package com.ej.user.repository;
 
-import org.springframework.data.jpa.repository.JpaRepository;
 import com.ej.user.domain.entity.User;
+import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  * @description:
- * @author: syhan
+ * @author: ej
  * @create: 2022-09-24
  **/
 public interface UserRepository extends JpaRepository<User,Integer> {
